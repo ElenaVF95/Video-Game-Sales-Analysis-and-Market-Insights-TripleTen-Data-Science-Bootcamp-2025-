@@ -16,11 +16,11 @@ To identify patterns in video game sales and generate data-driven recommendation
 - Seaborn
 - SciPy
 - Jupyter Notebook
-
-# Exploratory Data Analysis
+- Exploratory Data Analysis
 - Statistical Hypothesis Testing
 - Data Visualization
-- Main Tasks
+
+# Main Tasks
 - Cleaned and prepared a historical video game sales dataset.
 - Analyzed sales trends by platform, genre, year, and region.
 - Compared global and regional sales performance.
